@@ -2,4 +2,4 @@
 A web service created with Node.js.
 
 
-recognifacedb.herokuapp.com
+<a href="https://recognifacedb.herokuapp.com/">recognifacedb.herokuapp.com</a>
